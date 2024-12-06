@@ -1,0 +1,16 @@
+h1 {
+    font-size: 36px;
+    text-align: left;
+    color: rgb(141, 134, 134)
+}
+
+p {
+    font-size: 16px;
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+    color: rgb(255, 255, 255)
+}
+
+body {
+    background-color: rgb(14, 14, 31);
+}
